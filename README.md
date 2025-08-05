@@ -13,6 +13,11 @@ A simple fake SSH server that simulates a Cisco router CLI, logs attacker comman
 - Python 3.7+
 - `asyncssh`, `requests`, `python-dotenv`
 
+```bash
+pip install asyncssh
+pip install requests
+pip install python-dotenv
+```
 ---
 
 ## 📦 Setup
